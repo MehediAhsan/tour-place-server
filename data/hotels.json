@@ -1,0 +1,92 @@
+[
+    {
+      "id": "63559154f11aea0e1a01cb44",
+      "name": "Hotel Sundrabono",
+      "image": "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+      "price": 22,
+      "rating": 4,
+      "description": "Sundarban Hotel features a 24 hour front desk, a concierge, and room service. In addition, as a valued Sundarban Hotel guest, you can enjoy an on-site",
+      "place_name": "Sundarban"
+    },
+    {
+      "id": "63559154a6aefccaddd1db8d",
+      "name": "Bridges Mcconnell",
+      "image": "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+      "price": 30,
+      "rating": 5,
+      "description": "Aileen",
+      "place_name": "Cox's Bazar"
+    },
+    {
+      "id": "6355915409141549e5a66d19",
+      "name": "Duffy Lambert",
+      "image": "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+      "price": 35,
+      "rating": 4,
+      "description": "Sundarban Hotel features a 24 hour front desk, a concierge, and room service. In addition, as a valued Sundarban Hotel guest, you can enjoy an on-site ",
+      "place_name": "Sundarban"
+    },
+    {
+      "id": "635591547192742ff61d7ae9",
+      "name": "Stephanie Donovan",
+      "image": "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+      "price": 40,
+      "rating": 5,
+      "description": "Camille",
+      "place_name": "Sajek"
+    },
+    {
+      "id": "63559154e4185f8ab5812e37",
+      "name": "Howe Daugherty",
+      "image": "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+      "price": 31,
+      "rating": 4,
+      "description": "French",
+      "place_name": "Sajek"
+    },
+    {
+      "id": "63559154c18964a986f8f0a9",
+      "name": "Holt Rodgers",
+      "image": "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+      "price": 33,
+      "rating": 4,
+      "description": "Sundarban Hotel features a 24 hour front desk, a concierge, and room service. In addition, as a valued Sundarban Hotel guest, you can enjoy an on-site",
+      "place_name": "Sundarban"
+    },
+    {
+      "id": "6355915420b2208a8930184f",
+      "name": "Carey Banks",
+      "image": "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+      "price": 29,
+      "rating": 5,
+      "description": "Holly",
+      "place_name": "Kuakata"
+    },
+    {
+      "id": "63559154bc51fab973794a49",
+      "name": "Cherry Grimes",
+      "image": "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+      "price": 30,
+      "rating": 4,
+      "description": "Dejesus",
+      "place_name": "Kuakata"
+    },
+    {
+      "id": "635591545a7b8f8584cbb430",
+      "name": "Odom Lindsey",
+      "image": "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+      "price": 37,
+      "rating": 4,
+      "description": "Maritza",
+      "place_name": "Cox's Bazar"
+    },
+    {
+      "id": "635591545de2931ad6a693af",
+      "name": "Wheeler Harvey",
+      "image": "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+      "price": 20,
+      "rating": 5,
+      "description": "Cheryl",
+      "place_name": "Cox's Bazar"
+    }
+]
