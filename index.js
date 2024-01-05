@@ -25,7 +25,13 @@ app.get('/booking/:id', (req, res) => {
 app.get('/hotels/:name', (req, res) => {
     const name = req.params.name;
     const selectHotel = hotels.filter( hotel => hotel.place_name === name);
-    res.send(selectHotel)
+    res.send(selectHotel);
+})
+
+app.get('/hotel/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedHotel = hotels.find( hotel => hotel.id === id);
+    res.send(selectedHotel);
 })
 
 app.listen(port, () => {
