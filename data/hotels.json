@@ -6,7 +6,8 @@
       "price": 22,
       "rating": 4,
       "description": "Sundarban Hotel features a 24 hour front desk, a concierge, and room service. In addition, as a valued Sundarban Hotel guest, you can enjoy an on-site",
-      "place_name": "Sundarban"
+      "place_name": "Sundarban",
+      "geocode": [22.298937615666887, 89.56757934979424]
     },
     {
       "id": "63559154a6aefccaddd1db8d",
@@ -15,7 +16,8 @@
       "price": 30,
       "rating": 5,
       "description": "Aileen",
-      "place_name": "Cox's Bazar"
+      "place_name": "Cox's Bazar",
+      "geocode": [21.428922111571584, 92.00278817681354]
     },
     {
       "id": "6355915409141549e5a66d19",
@@ -24,7 +26,8 @@
       "price": 35,
       "rating": 4,
       "description": "Sundarban Hotel features a 24 hour front desk, a concierge, and room service. In addition, as a valued Sundarban Hotel guest, you can enjoy an on-site ",
-      "place_name": "Sundarban"
+      "place_name": "Sundarban",
+      "geocode": [22.298937615666887, 89.56757934979424]
     },
     {
       "id": "635591547192742ff61d7ae9",
@@ -33,7 +36,8 @@
       "price": 40,
       "rating": 5,
       "description": "Camille",
-      "place_name": "Sajek"
+      "place_name": "Sajek",
+      "geocode": [23.382065913112346, 92.29395381818482]
     },
     {
       "id": "63559154e4185f8ab5812e37",
@@ -42,7 +46,8 @@
       "price": 31,
       "rating": 4,
       "description": "French",
-      "place_name": "Sajek"
+      "place_name": "Sajek",
+      "geocode": [23.382065913112346, 92.29395381818482]
     },
     {
       "id": "63559154c18964a986f8f0a9",
@@ -51,7 +56,8 @@
       "price": 33,
       "rating": 4,
       "description": "Sundarban Hotel features a 24 hour front desk, a concierge, and room service. In addition, as a valued Sundarban Hotel guest, you can enjoy an on-site",
-      "place_name": "Sundarban"
+      "place_name": "Sundarban",
+      "geocode": [22.298937615666887, 89.56757934979424]
     },
     {
       "id": "6355915420b2208a8930184f",
@@ -60,7 +66,8 @@
       "price": 29,
       "rating": 5,
       "description": "Holly",
-      "place_name": "Kuakata"
+      "place_name": "Kuakata",
+      "geocode": [21.819744785506565, 90.13853270439054]
     },
     {
       "id": "63559154bc51fab973794a49",
@@ -69,7 +76,8 @@
       "price": 30,
       "rating": 4,
       "description": "Dejesus",
-      "place_name": "Kuakata"
+      "place_name": "Kuakata",
+      "geocode": [21.819744785506565, 90.13853270439054]
     },
     {
       "id": "635591545a7b8f8584cbb430",
@@ -78,7 +86,8 @@
       "price": 37,
       "rating": 4,
       "description": "Maritza",
-      "place_name": "Cox's Bazar"
+      "place_name": "Cox's Bazar",
+      "geocode": [21.428922111571584, 92.00278817681354]
     },
     {
       "id": "635591545de2931ad6a693af",
@@ -87,6 +96,7 @@
       "price": 20,
       "rating": 5,
       "description": "Cheryl",
-      "place_name": "Cox's Bazar"
+      "place_name": "Cox's Bazar",
+      "geocode": [21.428922111571584, 92.00278817681354]
     }
 ]
